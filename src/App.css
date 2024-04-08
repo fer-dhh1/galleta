@@ -19,7 +19,7 @@ button {
 }
 
 .app {
-  background-image: url(../public/fortuna-2/fondo2.png);
+  background-image: url(../src/img/fondo2.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
